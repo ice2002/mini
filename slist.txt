@@ -1,14 +1,14 @@
-1=ÕıÊ½·ş|Ğ¡Ñ©|Ğ¡Ñ©|193.112.99.127|7000|1
-1=²âÊÔ·ş|Ğ¡Ñ©|Ğ¡Ñ©|127.0.0.1|7000|0
+1=æ­£å¼æœ|å°é›ª|å°é›ª|193.112.99.127|7000|1
+1=æµ‹è¯•æœ|å°é›ª|å°é›ª|127.0.0.1|7000|0
 
-¹«¸æµØÖ·=http://mini.17pk.pub/mini.html
-¹Ù·½Ê×Ò³=http://i.17pk.pub
-¸üĞÂµØÖ·=http://i.17pk.pub
-°æ±¾ºÅ=20131212
-Ë¢ĞÂËÙ¶È=60
-×Ô¶¯Õ¹¿ª=1
-ÁĞ±íÑÕÉ«=CD6600
-¿ì½İ·½Ê½=1
+å…¬å‘Šåœ°å€=http://mini.17pk.pub/mini.html
+å®˜æ–¹é¦–é¡µ=http://i.17pk.pub
+æ›´æ–°åœ°å€=http://i.17pk.pub
+ç‰ˆæœ¬å·=20131212
+åˆ·æ–°é€Ÿåº¦=60
+è‡ªåŠ¨å±•å¼€=1
+åˆ—è¡¨é¢œè‰²=CD6600
+å¿«æ·æ–¹å¼=1
 
-;Ğ§ÑéMD5=map\trial.map|16295d2098e0f3b9cb158e790b8a2a70|http://i.17pk.pub/map.7z
-Ğ§ÑéMD5=Favorites.xml|cbc1dc68f6d2d928c0122fdf38a4cbf5|http://mini.17pk.pub/Favorites.7z
+;æ•ˆéªŒMD5=map\trial.map|16295d2098e0f3b9cb158e790b8a2a70|http://i.17pk.pub/map.7z
+æ•ˆéªŒMD5=Favorites.xml|96063f7c9e7b1cc2482f04fca0c47405|http://mini.17pk.pub/Favorites.7z
