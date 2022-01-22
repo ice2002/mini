@@ -11,4 +11,4 @@
 快捷方式=1
 
 ;效验MD5=map\trial.map|16295d2098e0f3b9cb158e790b8a2a70|http://i.17pk.pub/map.7z
-效验MD5=Favorites.xml|96063f7c9e7b1cc2482f04fca0c47405|http://mini.17pk.pub/Favorites.7z
+效验MD5=Favorites.xml|96063F7C9E7B1CC2482F04FCA0C47405|http://mini.17pk.pub/Favorites.7z
