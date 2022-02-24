@@ -10,4 +10,4 @@
 列表颜色=CD6600
 快捷方式=1
 
-效验MD5=Favorites.xml|B0832EB0D15FC03616B586D205F3FCB3|http://mini.17pk.pub/Favorites.7z
+效验MD5=Favorites.xml|CC1D371EF165F8863BE62ADA24C09B04|http://mini.17pk.pub/Favorites.7z
