@@ -1,4 +1,4 @@
-1=正式服|小雪|小雪|123.161.58.77|443|1
+1=正式服|小雪|小雪|106.52.103.41|7000|1
 1=测试服|小雪|小雪|127.0.0.1|7000|0
 
 公告地址=http://mini.17pk.pub/mini.html
@@ -10,4 +10,4 @@
 列表颜色=CD6600
 快捷方式=1
 
-效验MD5=Favorites.xml|CC1D371EF165F8863BE62ADA24C09B04|http://mini.17pk.pub/Favorites.7z
+效验MD5=Favorites.xml|658FEB2DA26AD9134A7297E542507836|http://mini.17pk.pub/Favorites.7z
