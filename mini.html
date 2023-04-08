@@ -52,6 +52,19 @@ img {
 	text-shadow:1px 0 4px #0c0c0c,0 1px 4px #0c0c0c,0 -1px 4px #0c0c0c,-1px 0 4px #0c0c0c;
 	filter:glow(color=#0c0c0c,strength=3);
 }
+	
+.scroll_content{
+	-ms-scroll-chaining: chained;
+	-ms-overflow-style: none;
+	-ms-content-zooming: zoom;
+	-ms-scroll-rails: none;
+	-ms-content-zoom-limit-min: 100%;
+	-ms-content-zoom-limit-max: 500%;
+	-ms-scroll-snap-type: proximity;
+	-ms-scroll-snap-points-x: snapList(100%, 200%, 300%, 400%, 500%);
+	-ms-overflow-style: none;
+	overflow: auto;
+}
 
 #notice { display: none; padding-top: 10px;}
 </style>
